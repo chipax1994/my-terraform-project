@@ -11,4 +11,4 @@ route_table_association
 security_group
 subnet
 Virtual Private Cloud [vpc]
-#create ubuntu server and install/enable apache2
+#create ubuntu server and install/enable apache2 .
